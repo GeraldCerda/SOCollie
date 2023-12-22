@@ -1,0 +1,2 @@
+# SOCollie
+self operated computation 
